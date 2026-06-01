@@ -60,14 +60,10 @@ const ContactUs = () => {
                         {/* Divider */}
                         <div className="hidden md:block h-10 w-[1px] bg-white/30 mt-2"></div>
 
-                        {/* Stat 2 & Scroll indicator */}
+                        {/* Stat 2 */}
                         <div className="flex flex-col items-center relative">
                             <span className="text-3xl md:text-4xl font-sans font-bold text-white mb-1 md:mb-2">100%</span>
                             <span className="text-[9px] md:text-[10px] font-black text-white tracking-[0.2em] uppercase font-sans">Satisfaction</span>
-                            <div className="hidden md:flex absolute -bottom-16 flex-col items-center opacity-60">
-                                <span className="text-[9px] text-white tracking-[0.2em] mb-1.5 uppercase">Scroll</span>
-                                <div className="w-[1px] h-6 bg-gradient-to-b from-white to-transparent"></div>
-                            </div>
                         </div>
 
                         {/* Divider */}
