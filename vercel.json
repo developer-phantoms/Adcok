@@ -1,4 +1,7 @@
 {
+  "version": 2,
+  "buildCommand": "npm install --prefix Adcok && npm run build --prefix Adcok",
+  "outputDirectory": "Adcok/dist",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ]
