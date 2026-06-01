@@ -144,8 +144,8 @@ const Categories = () => {
   ];
 
   return (
-    <section className="w-full bg-[#fdf2f3] pt-12 pb-24 px-4 md:px-8 font-['Inter',sans-serif] overflow-hidden">
-      <div className="max-w-[1400px] mx-auto flex flex-col xl:flex-row items-center gap-12 xl:gap-8">
+    <section className="w-full bg-[#fdf2f3] my-12 md:my-16 pt-12 pb-24 px-8 md:px-16 lg:px-24 font-['Inter',sans-serif] overflow-hidden">
+      <div className="max-w-[1240px] mx-auto flex flex-col xl:flex-row items-center gap-12 xl:gap-8">
 
         {/* Left Side Heading */}
         <div className="xl:w-1/4 flex-shrink-0 text-center xl:text-left z-20">

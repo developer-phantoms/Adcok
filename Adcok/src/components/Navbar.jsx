@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Logo from '../assets/logo-2.png';
+import { FaCapsules } from 'react-icons/fa';
 
 export default function Navbar() {
   const [activeItem, setActiveItem] = useState(() => {
@@ -17,15 +17,12 @@ export default function Navbar() {
     <div className="relative z-50 pt-4 md:pt-6 px-4 flex flex-col items-center gap-0">
       <nav className="bg-white rounded-full py-1 px-8 flex items-center shadow-[0_10px_40px_-10px_rgba(0,0,0,0.15)] w-full max-w-5xl justify-between relative z-50 min-h-[50px] md:min-h-[60px]">
 
-        {/* ── Logo - Minimalist Size ────────────────────────────────── */}
-        <a href="/" className="flex items-center transition-all duration-300 translate-y-0.5">
-          <div className="h-4 w-20 md:h-8 md:w-32 flex items-center justify-start scale-105">
-            <img
-              src={Logo}
-              alt="Adcock Logo"
-              className="w-full h-auto object-contain brightness-110 contrast-125 drop-shadow-md"
-            />
-          </div>
+        {/* ── Logo ────────────────────────────────── */}
+        <a href="/" className="flex items-center gap-2 transition-all duration-300 hover:opacity-80">
+          <FaCapsules className="text-[#800000] text-xl md:text-2xl" />
+          <span className="text-[#800000] font-black text-base md:text-xl tracking-wider font-sans">
+            MEDISENSE
+          </span>
         </a>
 
         {/* ── Desktop Nav Items ─────────────────────────────────────── */}

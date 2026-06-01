@@ -106,7 +106,7 @@ const ContactUs = () => {
                                     </div>
                                     <div>
                                         <h4 className="font-bold text-gray-900 text-xl mb-1 uppercase tracking-tight">Our Headquarters</h4>
-                                        <p className="text-gray-500 leading-relaxed">Adcok House, 123 Pharma Business Square,<br />Lahore, Punjab, Pakistan.</p>
+                                        <p className="text-gray-500 leading-relaxed">Medisense House, 123 Pharma Business Square,<br />Lahore, Punjab, Pakistan.</p>
                                     </div>
                                 </div>
 
@@ -117,7 +117,7 @@ const ContactUs = () => {
                                     </div>
                                     <div>
                                         <h4 className="font-bold text-gray-900 text-xl mb-1 uppercase tracking-tight">Email Us</h4>
-                                        <p className="text-gray-500 leading-relaxed font-semibold">info@adcokpharma.com</p>
+                                        <p className="text-gray-500 leading-relaxed font-semibold">info@medisensepharma.com</p>
                                         <p className="text-gray-500 text-sm italic">Response time: Within 24 hours</p>
                                     </div>
                                 </div>
@@ -204,7 +204,7 @@ const ContactUs = () => {
                             allowFullScreen=""
                             loading="lazy"
                             referrerPolicy="no-referrer-when-downgrade"
-                            title="Adcok Headquarters Location"
+                            title="Medisense Headquarters Location"
                         ></iframe>
                     </div>
                 </section>

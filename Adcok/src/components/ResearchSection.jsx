@@ -55,7 +55,7 @@ const ResearchSection = () => {
             <span className="text-[#800000]">Development</span>
           </h2>
           <p className="text-gray-500 text-sm md:text-base leading-relaxed mb-10 max-w-lg">
-            At ADCOK Pharmaceuticals, innovation is at the heart of everything we do. Our R&D focus ensures every product we bring to market is backed by rigorous science, quality sourcing, and a commitment to improving lives across Pakistan.
+            At Medisense Pharmaceuticals, innovation is at the heart of everything we do. Our R&D focus ensures every product we bring to market is backed by rigorous science, quality sourcing, and a commitment to improving lives across Pakistan.
           </p>
 
           {/* Points */}
@@ -94,7 +94,7 @@ const ResearchSection = () => {
           <div className="relative rounded-[2rem] overflow-hidden shadow-2xl">
             <img
               src={ResearchImg}
-              alt="Adcok Research and Development"
+              alt="Medisense Research and Development"
               className="w-full h-[420px] md:h-[540px] object-cover"
             />
             {/* Subtle maroon overlay gradient */}

@@ -9,13 +9,13 @@ const testimonials = [
   },
   {
     id: 2,
-    quote: "Adcok's commitment to quality and standard is clear in every product. Their supplements have become a staple in our daily recommendations for long-term health.",
+    quote: "Medisense's commitment to quality and standard is clear in every product. Their supplements have become a staple in our daily recommendations for long-term health.",
     name: "Dr. Sarah Jenkins",
     title: "General Practitioner",
   },
   {
     id: 3,
-    quote: "The research and development behind these formulations is top-notch. I trust Adcok to provide safe and effective health solutions for my patients.",
+    quote: "The research and development behind these formulations is top-notch. I trust Medisense to provide safe and effective health solutions for my patients.",
     name: "Prof. Ahmed Khan",
     title: "Cardiologist",
   }

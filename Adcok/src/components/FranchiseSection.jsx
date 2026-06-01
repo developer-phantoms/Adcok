@@ -74,7 +74,7 @@ const FranchiseSection = () => {
             </h3>
             
             <p className="text-white/80 mb-10 leading-relaxed font-medium text-sm md:text-base font-sans text-left">
-              Become an authorized ADCOK distributor and supply our DRAP-approved products across your region with full backend support.
+              Become an authorized Medisense distributor and supply our DRAP-approved products across your region with full backend support.
             </p>
 
             <ul className="space-y-4 mb-12 flex-grow font-sans">

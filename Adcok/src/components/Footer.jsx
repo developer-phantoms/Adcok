@@ -3,7 +3,7 @@ import FooterImage from '../assets/Footer.jpg';
 
 export default function Footer() {
   return (
-    <footer className="relative w-full text-white font-['Inter',sans-serif]">
+    <footer className="relative w-full text-white font-sans">
       {/* Background Image & Dark Overlay */}
       <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: `url(${FooterImage})` }}>
         <div className="absolute inset-0 bg-[#1c1c1e]/80"></div>
@@ -15,8 +15,8 @@ export default function Footer() {
         {/* Left Section (Brand & About) */}
         <div className="flex flex-col gap-6 md:w-[35%]">
           {/* Brand Name replacing Logo */}
-          <div className="-mt-2 mb-0 font-bold text-3xl tracking-wide font-['Outfit',sans-serif]">
-            <span className="text-[#b52a1d]">Adcok</span> <span className="text-gray-300">Pharmaceutical</span>
+          <div className="-mt-2 mb-0 font-bold text-3xl tracking-wide font-sans">
+            <span className="text-[#b52a1d]">MEDISENSE</span> <span className="text-gray-300">Pharmaceutical</span>
           </div>
 
           <p className="text-gray-300 text-[13.5px] leading-relaxed pr-4 font-medium">
@@ -26,7 +26,7 @@ export default function Footer() {
 
             {/* Facebook */}
             <a
-              href="https://www.facebook.com/Adcokpharmaceutical"
+              href="https://www.facebook.com/Medisensepharmaceutical"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 rounded-full 
@@ -85,7 +85,7 @@ export default function Footer() {
 
         {/* Middle Section (Quick Links) */}
         <div className="flex flex-col gap-6 md:w-[25%]">
-          <h3 className="text-white font-bold tracking-[0.15em] text-[13px] uppercase mb-1">Quick Links</h3>
+          <h3 className="text-white font-sans font-bold tracking-[0.15em] text-[13px] uppercase mb-1">Quick Links</h3>
           <div className="flex flex-col gap-5 text-[14px] font-medium">
             <a href="/" className="text-gray-400 hover:text-white transition-colors w-fit">Home</a>
             <a href="/about" className="text-gray-400 hover:text-white transition-colors w-fit">About Us</a>
@@ -97,7 +97,7 @@ export default function Footer() {
 
         {/* Right Section (Contact Us) */}
         <div className="flex flex-col gap-6 md:w-[40%] relative">
-          <h3 className="text-white font-bold tracking-[0.15em] text-[13px] uppercase mb-1">Contact Us</h3>
+          <h3 className="text-white font-sans font-bold tracking-[0.15em] text-[13px] uppercase mb-1">Contact Us</h3>
 
           <div className="flex flex-col gap-5 text-[14px] text-gray-300 font-medium">
             {/* Location (with icon per request) */}
@@ -128,7 +128,7 @@ export default function Footer() {
 
       {/* Bottom Bar */}
       <div className="relative z-10 w-full py-6 px-6 md:px-12 lg:px-20 max-w-[1400px] mx-auto flex flex-col md:flex-row justify-between items-center text-[12px] text-gray-400 font-medium gap-4 text-center md:text-left">
-        <p>&copy; 2026 ADCOK Pharmaceuticals (Pvt.) Ltd. — All Rights Reserved</p>
+        <p>&copy; 2026 Medisense Pharmaceuticals (Pvt.) Ltd. — All Rights Reserved</p>
         <p>@ HAT Tech MEDIA (Pvt.) Ltd. — All Rights Reserved</p>
         <p className="font-bold text-white flex items-center gap-1.5 bg-[#1f1f1f] px-3 py-1.5 rounded-md">
           <span className="text-[#b52a1d] text-[14px]">✔</span> DRAP Form-7 Certified

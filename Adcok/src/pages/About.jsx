@@ -180,7 +180,7 @@ export default function About({
                                 Delivering Healthcare <br /> <span className="text-[#800000] italic">Excellence Globally</span>
                             </h2>
                             <p className="text-lg text-gray-600 leading-relaxed font-sans">
-                                Adcok Pharmacy was founded with a singular vision: to improve global health outcomes by developing, manufacturing, and commercializing high-quality, affordable pharmaceutical products. Over the years, we have built a legacy of trust and reliability in the medical community.
+                                Medisense Pharmacy was founded with a singular vision: to improve global health outcomes by developing, manufacturing, and commercializing high-quality, affordable pharmaceutical products. Over the years, we have built a legacy of trust and reliability in the medical community.
                             </p>
 
                             <ul className="space-y-4 mt-6">
@@ -323,7 +323,7 @@ export default function About({
 
                             <div className="space-y-16 md:space-y-32">
                                 {[
-                                    { year: '2015', title: 'Company Founded', desc: 'Adcok Pharmacy was established with a small but dedicated team of visionary scientists and pharmacists.', icon: <FaAward /> },
+                                    { year: '2015', title: 'Company Founded', desc: 'Medisense Pharmacy was established with a small but dedicated team of visionary scientists and pharmacists.', icon: <FaAward /> },
                                     { year: '2017', title: 'First Product Launch', desc: 'Successfully launched our first line of essential vitamins and supplements to the local market.', icon: <FaFlask /> },
                                     { year: '2019', title: 'Expanded Research', desc: 'Opened a state-of-the-art R&D facility to accelerate the development of specialized therapeutics.', icon: <FaLightbulb /> },
                                     { year: '2022', title: 'Global Entry', desc: 'Began exporting our high-quality pharmaceutical products to neighboring international markets.', icon: <FaHandsHelping /> },

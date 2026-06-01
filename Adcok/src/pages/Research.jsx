@@ -312,13 +312,13 @@ const Research = ({
 
                             {/* Heading */}
                             <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 leading-tight tracking-tight">
-                                Adcok Provides the Best <br />
+                                Medisense Provides the Best <br />
                                 <span className="text-[#800000] italic">Pharmaceutical Research</span>
                             </h2>
 
                             {/* Description */}
                             <p className="text-gray-500 font-sans leading-relaxed text-sm md:text-base max-w-2xl">
-                                At Adcok Pharmacy, we provide a wide range of research-driven services — from clinical formulation to bio-equivalence studies. Our expert scientists and quality control teams ensure every product meets the highest international standards.
+                                At Medisense Pharmacy, we provide a wide range of research-driven services — from clinical formulation to bio-equivalence studies. Our expert scientists and quality control teams ensure every product meets the highest international standards.
                             </p>
 
                             {/* Tab Buttons - Responsive Scroll/Wrap */}
@@ -576,10 +576,10 @@ const Research = ({
                             <div className="bg-[#800000] rounded-2xl p-8 md:p-14 text-white shadow-[0_20px_50px_rgba(128,0,0,0.3)] relative border border-white/10">
                                 
                                 <p className="text-[11px] font-black tracking-[0.2em] uppercase mb-4 text-white/60">Advanced Pharmaceutical R&D</p>
-                                <h2 className="text-3xl md:text-5xl font-bold mb-6 font-serif tracking-tight leading-tight">Adcok Pharmacy <br />Research Hub</h2>
+                                <h2 className="text-3xl md:text-5xl font-bold mb-6 font-serif tracking-tight leading-tight">Medisense Pharmacy <br />Research Hub</h2>
                                 
                                 <p className="text-sm md:text-base text-white/70 mb-10 leading-relaxed max-w-[90%] font-sans relative z-10 font-light">
-                                    At Adcok Pharmacy, our state-of-the-art research laboratories are dedicated to pioneering new formulations, ensuring rigorous quality control, and delivering innovative healthcare solutions that meet global standards.
+                                    At Medisense Pharmacy, our state-of-the-art research laboratories are dedicated to pioneering new formulations, ensuring rigorous quality control, and delivering innovative healthcare solutions that meet global standards.
                                 </p>
                                 
                                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-y-5 gap-x-4 mb-12 relative z-10">
@@ -633,7 +633,7 @@ const Research = ({
 
                             {/* Content Left */}
                             <div className="relative z-10 text-white w-full md:w-2/3">
-                                <p className="text-[10px] md:text-xs font-black tracking-[0.3em] uppercase mb-3 font-sans text-white/70">Stay Updated with Adcok</p>
+                                <p className="text-[10px] md:text-xs font-black tracking-[0.3em] uppercase mb-3 font-sans text-white/70">Stay Updated with Medisense</p>
                                 <h2 className="text-2xl md:text-4xl font-bold font-serif tracking-tight leading-tight">Join Our Pharmaceutical <br className="hidden md:block" /> Network</h2>
                             </div>
 

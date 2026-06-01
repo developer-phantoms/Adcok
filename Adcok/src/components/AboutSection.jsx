@@ -36,7 +36,7 @@ const AboutSection = () => {
           </h2>
           
           <p className="text-gray-600 text-sm md:text-base leading-relaxed mb-8 max-w-2xl">
-            ADCOK Pharmaceuticals (Pvt.) Ltd. is a leading Nutraceutical marketing company manufacturing and selling a wide range of quality dietary supplements — available for franchise and distribution across all districts of Pakistan.
+            Medisense Pharmaceuticals (Pvt.) Ltd. is a leading Nutraceutical marketing company manufacturing and selling a wide range of quality dietary supplements — available for franchise and distribution across all districts of Pakistan.
           </p>
           
           <ul className="space-y-3.5 mb-10">
